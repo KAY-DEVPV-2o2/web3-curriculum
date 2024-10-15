@@ -53,5 +53,5 @@
     }
   },
   "terminal.integrated.defaultProfile.linux": "bash",
-  "workbench.colorTheme": "freeCodeCamp Dark Theme"
+  "workbench.colorTheme": "Vue Theme"
 }
