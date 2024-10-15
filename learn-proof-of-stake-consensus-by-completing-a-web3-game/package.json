@@ -42,5 +42,8 @@
   "devDependencies": {
     "js-yaml": "^4.1.0",
     "wasm-pack": "^0.10.2"
+  },
+  "dependencies": {
+    "proof-of-stake": "file:"
   }
 }
